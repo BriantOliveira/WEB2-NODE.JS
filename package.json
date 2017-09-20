@@ -1,0 +1,26 @@
+{
+  "name": "challenge_node",
+  "version": "1.0.0",
+  "description": "Node.js challenge for web 2 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriantOliveira/WEB-2-CLASS.git"
+  },
+  "keywords": [
+    "web2"
+  ],
+  "author": "Elliot Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriantOliveira/WEB-2-CLASS/issues"
+  },
+  "homepage": "https://github.com/BriantOliveira/WEB-2-CLASS#readme",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "through2-map": "^3.0.0"
+  }
+}
